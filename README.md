@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning **Blender**
-- - 🔎 You can find out more about me on my personal website: https://altrimmuharemi.netlify.app/ 
+- 🔎 You can find out more about me on my personal website: https://altrimmuharemi.netlify.app/ 
 - 👨‍💻 All of my projects are available at [https://portfolio.bbbaden.ch/user/a-muharemi-inf21](https://portfolio.bbbaden.ch/user/a-muharemi-inf21)
 
 <h3 align="left">Connect with me:</h3>
